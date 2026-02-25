@@ -8,4 +8,4 @@ A simple web app to track income and expenses and manage personal finances.
 - Track spending categories
 
 ## Tech Stack
-HTML | CSS | JavaScript
+HTML 
