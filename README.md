@@ -1,2 +1,11 @@
 # money-tracker
-A simple app to track income, expenses, and manage personal finances.
+
+A simple web app to track income and expenses and manage personal finances.
+
+## Features
+- Add income and expenses
+- View balance summary
+- Track spending categories
+
+## Tech Stack
+HTML | CSS | JavaScript
